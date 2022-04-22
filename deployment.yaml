@@ -15,6 +15,7 @@ spec:
     metadata:
       labels:
         app: super-simple-k8s-app
+        short: sska
       namespace: super-simple-k8s-app-prod
     spec:
       containers:
