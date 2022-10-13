@@ -1,4 +1,4 @@
-FROM almalinux:8.5
+FROM almalinux:8.6
 
 RUN mkdir /app
 COPY run.sh /app/
